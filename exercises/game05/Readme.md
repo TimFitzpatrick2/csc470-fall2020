@@ -1,5 +1,6 @@
-# Above the clouds 
-is a game where the player will spond on a cloud and will have to make it to the rainbow (finish line). The player will use the new sponding clouds to jump on and collect coins.
-The coins will be scored and tallied when the player crosses the finish line.
-If the player falls off the clouds then they will be responded back ontop of the clouds but once the 3 lives are up the game is over.
-The player will use left click to jump from cloud to cloud. 
+# Utopia
+In my game there will be a player that can travel around his own utopia. In the utopia there will be 3 different games that the player can play.
+SurferBro: if you hover over top of the surferbro you can try surfing with him.
+Andy near the woods: If you hover over any you can play target practice.
+Racecar: if you hover over top of the racecar you can try driving on a track.
+The idea of the game is a twist off of the game Sim City. The ability to walk around a world and hop into whatever world you would like.
