@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - SurferBro
+  - Unit
+  - RaceCar
+  - EndofRoad
+  - Coin
+  - Andy
   layers:
   - Default
   - TransparentFX
