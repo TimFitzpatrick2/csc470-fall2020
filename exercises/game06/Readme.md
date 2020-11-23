@@ -1,5 +1,6 @@
-#Target Practice
-Title Screen:
+# Target Practice
+
+* Title Screen:
 The title screen will use mouse input with left click to select a button. The user will be asked to type their name into the screen so that they can be remember on the history board. There will be one button the title screen which will give the user access to begin the game.
 Details:
 Target Practice is an archery shooting game. A Bow and Arrow will shoot arrows at targets. The users will only be given 5 arrows and the users has to hit at least 4 different targets to move to the next level. The accuracy of the user will be kept on a history board. 
