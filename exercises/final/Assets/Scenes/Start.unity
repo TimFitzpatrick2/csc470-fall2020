@@ -555,6 +555,8 @@ MonoBehaviour:
   TargetPrefab: {fileID: 0}
   Timer: {fileID: 0}
   score: 5
+  aboveHeadNamePanel: {fileID: 0}
+  aboveHeadNameText: {fileID: 0}
 --- !u!4 &1401693311
 Transform:
   m_ObjectHideFlags: 0
@@ -840,7 +842,7 @@ MonoBehaviour:
   m_FontData:
     m_Font: {fileID: 12800000, guid: 815c3b94c5db1f948b99873946c2c3d2, type: 3}
     m_FontSize: 72
-    m_FontStyle: 1
+    m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 10
     m_MaxSize: 76
