@@ -6,6 +6,12 @@ TagManager:
   tags:
   - Arrow
   - Target
+  - bar
+  - meter
+  - BullsEye
+  - MovingTarget
+  - SnowStorm
+  - button
   layers:
   - Default
   - TransparentFX

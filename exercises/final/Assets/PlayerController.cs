@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -8,15 +10,21 @@ public class PlayerController : MonoBehaviour
 
     float rotateSpeed = 75;
 
+    float forceSpeed = 5500;
+
     Rigidbody rb;
 
     public CharacterController cc;
+
+    public int score = 5;
+
 
     // Start is called before the first frame update
     void Start()
     {
         rb = gameObject.GetComponent<Rigidbody>();
         cc = gameObject.GetComponent<CharacterController>();
+
     }
 
     // Update is called once per frame
@@ -38,11 +46,12 @@ public class PlayerController : MonoBehaviour
 
         Camera.main.transform.LookAt(lookAtPos, Vector3.up);
 
+
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            GameObject Arrow = Instantiate(ArrowPrefab, transform.position + transform.forward * 10, Quaternion.identity);
+            GameObject Arrow = Instantiate(ArrowPrefab, transform.position + transform.forward * 10, transform.rotation);
             Rigidbody ArrowRB = Arrow.GetComponent<Rigidbody>();
-            ArrowRB.AddForce(transform.forward * 5000);
+            ArrowRB.AddForce(transform.forward * forceSpeed);
             Destroy(Arrow, 5);
 
         }
