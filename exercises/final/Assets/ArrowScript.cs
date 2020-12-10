@@ -32,16 +32,12 @@ public class ArrowScript : MonoBehaviour
         if (other.CompareTag("Target"))
         {
             Destroy(other.gameObject);
-            audioSource.clip = clips[audioIndex % clips.Length];
-            audioIndex++;
-            audioSource.Play();
+            //audioSource.clip = clips[audioIndex % clips.Length];
+            //audioIndex++;
+            //audioSource.Play();
 
             score--;
 
-        }
-        if (score <= -10)
-        {
-            SceneManager.LoadScene("SnowStorm");
         }
     }
 }

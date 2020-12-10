@@ -12,7 +12,7 @@ public class TimerScript : MonoBehaviour
 
     void Awake()
     {
-        DontDestroyOnLoad(transform.gameObject);
+        //DontDestroyOnLoad(transform.gameObject);
     }
     // Start is called before the first frame update
     void Start()
