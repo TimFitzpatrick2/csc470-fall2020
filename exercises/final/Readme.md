@@ -19,7 +19,7 @@ The game will have a clean title screen. In addition to the targets, each level 
 
 
 ### What was attempted in my game: ###
-My game did not end the way i wanted it to and even the easier things like score was causing problems but I put in a lot of time for what I have created. 
+My game did not end the way i wanted as the easier things such as score were causing problems but I put in a lot of time and effort for what I have created. 
 * Trajectory:
 I attempted to make a trajectory line that would show the user where they are shooting but ended up breaking other part of my game while adding this component such as my score.
 * Force Meter:
