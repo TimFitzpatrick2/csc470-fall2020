@@ -8,6 +8,8 @@ The game input will be the arrow keys and space bar. The arrow keys will be used
 Level 1 will take place in a Desert with a few mountains, Level 2 will take place in the Artic, and Level 3 will take place on a Farm. The game will be in 1st person and the user will see the scene of the game, the targets the user is shooting at, and the bow with an arrow. The user will see the arrows being shot toward the target. The user will also know when they have hit the target because the target will destroy. 
 file:///C:/Users/fitz4/OneDrive/Desktop/Programs/final.html
 
+[Start Screen](file:///C:/Users/fitz4/OneDrive/Desktop/Programs/final.html)
+
 
 * Low Bar:
 In my game I at least expect to get a target shooting game that has at least 2 levels. The game should be able to recognize when the target is hit by an arrow. Also, the game should keep a history board of which users’ accuracy. 
