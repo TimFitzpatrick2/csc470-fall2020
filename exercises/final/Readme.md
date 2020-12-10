@@ -6,9 +6,9 @@ The title screen will use mouse input with left click to select a button. The us
 Target Practice is an archery shooting game. A Bow and Arrow will shoot arrows at targets. The users will only be given unlimited arrows and the users has to hit all of the targets to move to the next level. The Targets are made of 4 different layers as each layer will destroy as it is hit by an arrow. 
 The game input will be the arrow keys and space bar. The arrow keys will be used to change the direction of the arrows. The space bar allows the user to shoot the arrows. 
 Level 1 will take place in a Desert with a few mountains, Level 2 will take place in the Artic, and Level 3 will take place on a Farm. The game will be in 1st person and the user will see the scene of the game, the targets the user is shooting at, and the bow with an arrow. The user will see the arrows being shot toward the target. The user will also know when they have hit the target because the target will destroy. 
-file:///C:/Users/fitz4/OneDrive/Desktop/Programs/final.html
 
-[file:///C:/Users/fitz4/OneDrive/Desktop/Programs/final.html]
+
+[Start Screen Link] [file:///C:/Users/fitz4/OneDrive/Desktop/Programs/final.html]
 
 
 * Low Bar:
