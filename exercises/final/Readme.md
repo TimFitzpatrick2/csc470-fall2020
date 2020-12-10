@@ -1,6 +1,6 @@
 # Target Practice
 
-### Title Screen:###
+### Title Screen:
 The title screen will use mouse input with left click to select a button. The user will have the option of beginning the game or reading the instructions first. Once the user has read the instructions they can click the begin game button which will take the user to the first level. 
 ### Details: ###
 Target Practice is an archery shooting game. A Bow and Arrow will shoot arrows at targets. The users will only be given unlimited arrows and the users has to hit all of the targets to move to the next level. The Targets are made of 4 different layers as each layer will destroy as it is hit by an arrow. 
