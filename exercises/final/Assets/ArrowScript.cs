@@ -10,9 +10,9 @@ public class ArrowScript : MonoBehaviour
 
     public int score = 5;
 
-    public AudioClip[] clips;
-    public AudioSource audioSource;
-    int audioIndex = 0;
+    //public AudioClip[] clips;
+    //public AudioSource audioSource;
+    //int audioIndex = 0;
     
     // Start is called before the first frame update
     void Start()
@@ -32,9 +32,9 @@ public class ArrowScript : MonoBehaviour
         if (other.CompareTag("Target"))
         {
             Destroy(other.gameObject);
-            audioSource.clip = clips[audioIndex % clips.Length];
-            audioIndex++;
-            audioSource.Play();
+            //audioSource.clip = clips[audioIndex];
+            //audioIndex++;
+            //audioSource.Play();
 
             score--;
 

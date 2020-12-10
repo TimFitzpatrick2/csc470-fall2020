@@ -8,7 +8,7 @@ public class TimerScript : MonoBehaviour
     float currentTime = 0f;
     float startingTime = 0f;
 
-    [SerializeField] Text timerText;
+    public Text timerText;
 
     void Awake()
     {
