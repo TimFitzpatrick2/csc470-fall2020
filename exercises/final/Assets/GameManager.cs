@@ -18,18 +18,18 @@ public class GameManager : MonoBehaviour
     public Text aboveHeadNameText;
 
 
-    private void Awake()
-    {
-        if (instance != null && instance != this)
-        {
-            instance = this;
-            DontDestroyOnLoad(this.gameObject);
-        } else
-        {
-            instance = this;
-            DontDestroyOnLoad(this.gameObject);
-        }
-    }
+    //private void Awake()
+    //{
+        //if (instance != null && instance != this)
+        //{
+            //instance = this;
+            //DontDestroyOnLoad(this.gameObject);
+        //} else
+        //{
+            //instance = this;
+            //DontDestroyOnLoad(this.gameObject);
+        //}
+    //}
 
 
     // Start is called before the first frame update
